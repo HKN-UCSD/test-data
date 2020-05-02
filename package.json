@@ -1,0 +1,16 @@
+{
+    "name": "test-data",
+    "description": "Seed test data to database",
+    "type": "module",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "node --experimental-modules src/index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1",
+        "faker": "^4.1.0",
+        "firebase-admin": "^8.11.0"
+    }
+}
