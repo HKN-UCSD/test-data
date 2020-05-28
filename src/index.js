@@ -50,7 +50,7 @@ const generateEvents = () => {
     /* 
      * startDate and endDate of events have randomized offset from the most recent time
      * this script is run, with the offset for Month being from 0 to 3, Date being from 0 - 15.
-     * Both startDate and endDate should either be on the same day and month, or be 1 or 2 days 
+     * Both startDate and endDate should either be on the same day and month, or be 1 day 
      * apart from each other. 
      * 
      * Furthermore, the hour offset between startDate and endDate is also randomized, with 
