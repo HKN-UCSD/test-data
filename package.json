@@ -12,6 +12,7 @@
         "express": "^4.17.1",
         "faker": "^4.1.0",
         "firebase-admin": "^8.11.0",
-        "moment": "^2.26.0"
+        "moment": "^2.26.0",
+        "websocket-extensions": ">=0.1.4"
     }
 }
